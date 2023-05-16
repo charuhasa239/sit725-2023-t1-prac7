@@ -1,0 +1,28 @@
+.navbar-size{
+    width: 95%;
+    margin: 0 auto;
+}
+.user-image-size {
+     height: 64px;
+     margin:4px 0;
+}
+.main-body{
+    background-color:#e1f284;
+    color: rgb(13, 9, 9);
+    height: calc(100vh - 64px);
+}
+.materialboxed-image{
+    margin:  0 auto;
+    height: 300 px;
+}
+.click-me-button{
+    background-color: rgb(163, 93, 36);
+    margin-top: 50px;
+}
+#auto_fix_high{
+    margin-right: 10px;
+    padding-top: 5px;
+}
+#more_vert{
+    margin-left: 100px;
+}
